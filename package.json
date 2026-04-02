@@ -1,0 +1,32 @@
+{
+  "name": "clonespotify",
+  "version": "1.0.0",
+  "description": "Este é um projeto de clone do Spotify, desenvolvido para fins educacionais. O objetivo é criar uma interface semelhante à do Spotify, utilizando tecnologias web modernas.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "tailwindcss -i ./input.css -o ./src/css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./src/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuizGTVO/CloneSpotify.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "Spotify",
+    "clone",
+    "html",
+    "css",
+    "javascipt"
+  ],
+  "author": "Luiz Gustavo de Oliveira Menino",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuizGTVO/CloneSpotify.git"
+  },
+  "homepage": "https://github.com/LuizGTVO/CloneSpotify#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2"
+  }
+}

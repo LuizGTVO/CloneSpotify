@@ -1,0 +1,27 @@
+# Clone do Spotify
+
+Este é um projeto de clone do Spotify, desenvolvido para fins educacionais. O objetivo é criar uma interface semelhante à do Spotify, utilizando tecnologias web modernas.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Javascript
+- Tailwind CSS(Versão 4.x)
+- node.js (Versão 24.x)
+
+## Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/LuizGTVO/CloneSpotify.git
+    ```
+2. Navegue até o repositório
+    ```
+    cd CLONESPOTIFY 
+    ```
+3. Instale dependências
+    ```
+    npm install
+    ```
+    
